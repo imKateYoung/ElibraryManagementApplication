@@ -1,0 +1,122 @@
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\ELibraryManagement.dll.config
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\ELibraryManagement.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\ELibraryManagement.pdb
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\csc.exe
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\csc.exe.config
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\csc.rsp
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\csi.exe
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\csi.exe.config
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\csi.rsp
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.AppContext.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.Console.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.Globalization.Calendars.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.IO.Compression.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.IO.FileSystem.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.Net.Http.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.Net.Sockets.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.ValueTuple.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.Xml.XPath.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\vbc.exe
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\vbc.exe.config
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\vbc.rsp
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\VBCSCompiler.exe
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\obj\Debug\ELibraryManagement.csprojAssemblyReference.cache
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\obj\Debug\ELibraryManagement.csproj.CoreCompileInputs.cache
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\obj\Debug\ELibraryManagement.csproj.CopyComplete
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\obj\Debug\ELibraryManagement.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\obj\Debug\ELibraryManagement.pdb
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\obj\Debug\ELibraryManagement.Properties.Resources.resources
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\ELibraryManagement\obj\Debug\ELibraryManagement.csproj.GenerateResource.cache
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\ELibraryManagement.dll.config
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\ELibraryManagement.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\ELibraryManagement.pdb
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\csc.exe
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\csc.exe.config
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\csc.rsp
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\csi.exe
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\csi.exe.config
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\csi.rsp
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.AppContext.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.Console.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.Net.Http.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\vbc.exe
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\vbc.exe.config
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\vbc.rsp
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\obj\Debug\ELibraryManagement.csprojAssemblyReference.cache
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\obj\Debug\ELibraryManagement.Properties.Resources.resources
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\obj\Debug\ELibraryManagement.csproj.GenerateResource.cache
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\obj\Debug\ELibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\obj\Debug\ELibraryManagement.csproj.CopyComplete
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\obj\Debug\ELibraryManagement.dll
+C:\Users\kateh\Desktop\C#.Net\ELibraryManagement\ELibraryManagement\obj\Debug\ELibraryManagement.pdb
